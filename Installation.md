@@ -2,7 +2,7 @@
 
 This step-by-step guide shows how to install and set up email encryption in Thunderbird on a Windows operating system. If you are looking for an open-source email client that is feature-rich and provides easy-to-use end-to-end encryption, then Thunderbird can be an excellent choice.
 
-**Why encrypt emails?**
+**Why encrypt emails, seriously ?**
 
 Sending emails without encryption is like sending postcards to your loved ones: like it or not, anyone and any system that processes emails can intercept and then read its content. Encrypting your emails is like putting your message in an envelope that only the recipient of the email can open.
 
